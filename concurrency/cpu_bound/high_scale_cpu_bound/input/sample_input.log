@@ -1,0 +1,5 @@
+203.0.113.24 - - [12/Apr/2025:15:31:24 +0000] "GET /products/electronics HTTP/1.1" 200 6214 "https://example.com/search" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+198.51.100.42 - - [12/Apr/2025:15:31:25 +0000] "POST /api/login HTTP/1.1" 401 237 "https://example.com/login" "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5)"
+203.0.113.117 - - [12/Apr/2025:15:31:26 +0000] "GET /images/banner.jpg HTTP/1.1" 304 0 "https://example.com" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)"
+198.51.100.105 - - [12/Apr/2025:15:31:28 +0000] "GET /products/clothing HTTP/1.1" 200 8432 "https://example.com/search" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+203.0.113.76 - - [12/Apr/2025:15:31:30 +0000] "GET /api/products/123 HTTP/1.1" 200 1543 "https://example.com/products" "Mozilla/5.0 (Android 12; Mobile)"
